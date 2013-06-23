@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sample.turktelekom"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.sample.turktelekom.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.sample.turktelekom.HomeList1" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.HomeListView" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.HomeListView2" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.HomeListView3" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.BireyselKampanya" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.BireyselUrunler" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.BireyselTarifeler" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.KurumsalKampanyalar" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.KurumsalUrunler" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.KurumsalTarifeler" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.Basin" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.IhaleIlani" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.InsanKaynaklari" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.Sponsorluk" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.SosyalSorumluluk" >
+        </activity>
+        <activity android:name="com.sample.turktelekom.ButtonPage" >
+        </activity>
+        <activity
+            android:name="com.sample.turktelekom.KampanyaDetayActivity"
+            android:label="@string/title_activity_kampanya_detay" >
+        </activity>
+    </application>
+
+    <uses-sdk android:minSdkVersion="7" />
+
+</manifest>

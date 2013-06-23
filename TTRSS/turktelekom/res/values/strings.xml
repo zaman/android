@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TurkTelekom</string>
+	<string-array name="pages_array">
+		<item>Kampanyalar</item>
+		<item>Ürünler</item>
+		<item>Tarifeler</item>
+	</string-array>
+	<string-array name="pages_array1">
+		<item>Bireysel</item>
+		<item>Kurumsal</item>
+		<item>TT Hakkinda</item>
+	</string-array>
+		<string-array name="pages_array2">
+		<item>Basın Bülteni</item>
+		<item>Sponsorluk</item>
+		<item>İnsan Kaynakları</item>
+		<item>Sosyal Sorumluluk</item>
+	</string-array>
+</resources>

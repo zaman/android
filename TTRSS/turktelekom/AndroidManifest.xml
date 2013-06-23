@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.sample.turktelekom"
+      android:versionCode="1"
+      android:versionName="1.0">
+      	<uses-permission android:name="android.permission.INTERNET" />
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".Splash"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+          <activity android:name=".HomeList1"></activity>
+        <activity android:name=".HomeListView"></activity>
+        <activity android:name=".HomeListView2"></activity>
+         <activity android:name=".HomeListView3"></activity>
+		<activity android:name=".BireyselKampanya"></activity>
+		<activity android:name=".BireyselUrunler"></activity>
+		<activity android:name=".BireyselTarifeler"></activity>
+		<activity android:name=".KurumsalKampanyalar"></activity>
+		<activity android:name=".KurumsalUrunler"></activity>
+		<activity android:name=".KurumsalTarifeler"></activity>
+		<activity android:name=".Basin"></activity>
+		<activity android:name=".IhaleIlani"></activity>
+		<activity android:name=".InsanKaynaklari"></activity>
+		<activity android:name=".Sponsorluk"></activity>
+		<activity android:name=".SosyalSorumluluk"></activity>
+		<activity android:name=".ButtonPage"></activity>
+    </application>
+    <uses-sdk android:minSdkVersion="7" />
+
+</manifest> 

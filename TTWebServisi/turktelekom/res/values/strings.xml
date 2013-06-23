@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TurkTelekom</string>
+
+    <string-array name="pages_array">
+        <item>Kampanyalar</item>
+        <item>Urunler</item>
+        <item>Tarifeler</item>
+    </string-array>
+    <string-array name="pages_array1">
+        <item>Bireysel</item>
+        <item>Kurumsal</item>
+        <item>Duyurular</item>
+    </string-array>
+    <string-array name="pages_array2">
+        <item>Basın Bülteni</item>
+        <item>Sponsorluk</item>
+        <item>İnsan Kaynakları</item>
+        <item>Sosyal Sorumluluk</item>
+    </string-array>
+
+    <string name="title_activity_kampanya_detay">KampanyaDetayActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
