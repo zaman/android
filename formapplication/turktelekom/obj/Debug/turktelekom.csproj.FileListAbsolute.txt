@@ -1,0 +1,11 @@
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\bin\Debug\turktelekom.exe.config
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\bin\Debug\turktelekom.exe
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\bin\Debug\turktelekom.pdb
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\bin\Debug\EntityFramework.dll
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\bin\Debug\EntityFramework.xml
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\obj\Debug\turktelekom.csprojResolveAssemblyReference.cache
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\obj\Debug\turktelekom.Form1.resources
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\obj\Debug\turktelekom.Properties.Resources.resources
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\obj\Debug\turktelekom.csproj.GenerateResource.Cache
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\obj\Debug\turktelekom.exe
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\turktelekom\turktelekom\obj\Debug\turktelekom.pdb

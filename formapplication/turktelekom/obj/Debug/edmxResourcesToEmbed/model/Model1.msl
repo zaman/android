@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TurkTelekomModelStoreContainer" CdmEntityContainer="TurkTelekomEntities">
+    <EntitySetMapping Name="Kampanyas">
+      <EntityTypeMapping TypeName="TurkTelekomModel.Kampanya">
+        <MappingFragment StoreEntitySet="Kampanya">
+          <ScalarProperty Name="icerik" ColumnName="icerik" />
+          <ScalarProperty Name="baslik" ColumnName="baslik" />
+          <ScalarProperty Name="secenek" ColumnName="secenek" />
+          <ScalarProperty Name="tur" ColumnName="tur" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
