@@ -30,7 +30,7 @@ public class BireyselKampanya extends ListActivity {
 	public static String donus= "";
 	public static String str2 [] = new String [10];
 	@Override
-	public void onCreate(Bundle savedInstanceState) { 
+	public void onCreate(Bundle savedInstanceState) {  
 		super.onCreate(savedInstanceState);
          
 		SoapObject request = new SoapObject(NAMESPACE, METHOD_NAME);
@@ -52,7 +52,7 @@ public class BireyselKampanya extends ListActivity {
               if(result != null)
               {
                     //Get the first property and change the label text
-              	donus += result.getProperty(0).toString();
+              	donus = result.getProperty(0).toString();
               	str2 = donus.split("#");
               	
                     //txtCel.setText(result.getProperty(0).toString());

@@ -9,23 +9,16 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
-
 public class HomeList1 extends ListActivity {
-    /** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
 		String[] pages = getResources().getStringArray(R.array.pages_array1);
 		setListAdapter(new ArrayAdapter<String>(this, R.layout.list_item, pages));
-		
 		ListView lv = getListView();
-		
 		lv.setOnItemClickListener(new OnItemClickListener() {
 			public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-				
 				Intent myIntent = null;
-				
 				if(((TextView) view).getText().equals("Bireysel")){
 					myIntent = new Intent(view.getContext(), HomeListView.class);
 				}
@@ -37,10 +30,7 @@ public class HomeList1 extends ListActivity {
 				if(((TextView) view).getText().equals("Duyurular")){
 					myIntent = new Intent(view.getContext(), HomeListView3.class);
 				}
-
-
 				startActivity(myIntent);
-
 			}
 		});
 	}

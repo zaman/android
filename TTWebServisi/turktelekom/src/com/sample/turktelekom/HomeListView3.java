@@ -49,10 +49,10 @@ public class HomeListView3 extends ListActivity {
               // Get the SoapResult from the envelope body.
               SoapObject result = (SoapObject)envelope.bodyIn;
 
-              if(result != null)
+              if(result != null) 
               {
                     //Get the first property and change the label text
-              	donus += result.getProperty(0).toString();
+              	donus = result.getProperty(0).toString();
               	str2 = donus.split("#");
               	
                     //txtCel.setText(result.getProperty(0).toString());

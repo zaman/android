@@ -54,6 +54,10 @@
             android:name="com.sample.turktelekom.KampanyaDetayActivity"
             android:label="@string/title_activity_kampanya_detay" >
         </activity>
+        <activity
+            android:name="com.sample.turktelekom.Sikayet"
+            android:label="@string/title_activity_sikayet" >
+        </activity>
     </application>
 
     <uses-sdk android:minSdkVersion="7" />

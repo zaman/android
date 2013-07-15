@@ -1,0 +1,9 @@
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\bin\Debug\SikayetGoster.exe.config
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\bin\Debug\SikayetGoster.exe
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\bin\Debug\SikayetGoster.pdb
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\obj\Debug\SikayetGoster.csprojResolveAssemblyReference.cache
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\obj\Debug\SikayetGoster.Form1.resources
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\obj\Debug\SikayetGoster.Properties.Resources.resources
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\obj\Debug\SikayetGoster.csproj.GenerateResource.Cache
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\obj\Debug\SikayetGoster.exe
+c:\users\amanvermezz.tr\documents\visual studio 2012\Projects\SikayetGoster\SikayetGoster\obj\Debug\SikayetGoster.pdb

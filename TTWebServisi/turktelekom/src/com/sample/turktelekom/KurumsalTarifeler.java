@@ -52,7 +52,7 @@ public class KurumsalTarifeler extends ListActivity {
               if(result != null)
               {
                     //Get the first property and change the label text
-              	donus += result.getProperty(0).toString();
+              	donus = result.getProperty(0).toString();
               	str2 = donus.split("#");
               	
                     //txtCel.setText(result.getProperty(0).toString());
