@@ -1,4 +1,4 @@
 android
 =======
 
-Start android programming
+Android Web Service & RSS Reader
